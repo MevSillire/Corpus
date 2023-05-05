@@ -1,2 +1,2 @@
 # Corpus
-All scripts needed to exploit French corpus 
+All scripts needed to exploit French corpora
