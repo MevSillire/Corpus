@@ -1,5 +1,5 @@
 # Traitement de Données de Corpus et Population de Base de Données
-contient des scripts Python pour traiter les données de corpus, générer des indices et peupler une base de données MySQL avec les données traitées. Les scripts sont conçus pour gérer des données en langue française et comprennent des fonctionnalités de tokenisation, de segmentation en phrases et de génération d'indices divers pour le stockage et la récupération efficaces des données du corpus.
+Ce répertoire contient des scripts Python pour traiter les données de corpus, générer des indices et peupler une base de données MySQL avec les données traitées. Les scripts sont conçus pour gérer des données en langue française et comprennent des fonctionnalités de tokenisation, de segmentation en phrases et de génération d'indices divers pour le stockage et la récupération efficaces des données du corpus.
 
 ### Prérequis
 Avant d'exécuter les scripts, assurez-vous de disposer de ce qui suit :
