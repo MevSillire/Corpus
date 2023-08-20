@@ -2,9 +2,9 @@
 Ce répertoire contient des notebook et des scripts Python pour traiter des données de corpus et peupler une base de données MySQL avec les données traitées. Les scripts sont conçus pour gérer des données en langue française et comprennent des fonctionnalités de tokenisation, de segmentation en phrases et de génération d'indices divers pour le stockage et la récupération efficaces des données du corpus.
 
 ### Prérequis
-Avant d'exécuter les scripts, assurez-vous de disposer de ce qui suit :
+Avant d'exécuter les scripts, assurez-vous de disposer d'avoir :
 - Python 3.x installé.
-- Bibliothèques Python requises : mysql-connector, pandas, re, spacy, nltk.
+- Les bibliothèques Python requises : mysql-connector, pandas, re, spacy, nltk.
 - Un serveur de base de données MySQL avec des informations d'identification appropriées.
 
 
